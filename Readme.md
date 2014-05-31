@@ -1,0 +1,3 @@
+# MySQLTrick
+
+## What is it?
